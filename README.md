@@ -1,12 +1,12 @@
-# Aine-MD
+# Senz-MD
 
 This script is free, if caught sold, this script will be deleted immediately.
 Don't forget to follow my github
 
 Script ini gratis, Jika ketahuan di jual, Script ini akan langsung di hapus.
 Jangan lupa untuk mengikuti github ku
-* My WhatsApp [`Click Here`](https://wa.me/62895330379186?text=Assalamualaikum)
-* My Facebook [`Click Here`](https://facebook.com/ainneboot)
+* My WhatsApp [`Click Here`](https://wa.me/6283800930156?text=Assalamualaikum)
+* My Grup Bot [`Click Here`](https://chat.whatsapp.com/KwRKSy73DMY8NbRvCY8H4Z)
 
 ## Heroku Buildpack
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Aiinne/Aine-MD)
@@ -207,7 +207,7 @@ Orang Tua,
 Semua yang selalu mendukung
 
 #### Special Thank's To
-[![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo)
+[![Senzur](https://github.com/Loxa.png?size=100)](https://github.com/Loxa1)
 [![BochilGaming](https://github.com/BochilGaming.png?size=100)](https://github.com/BochilGaming)
 [![ariffb25](https://github.com/ariffb25.png?size=100)](https://github.com/ariffb25)
 
@@ -221,5 +221,5 @@ Semua yang selalu mendukung
 [![rahmad13](https://github.com/rahmad13.png?size=100)](https://github.com/rahmad13)
 
 
-Best Regards. Aine-MD
+Best Regards. Senz-MD
 
