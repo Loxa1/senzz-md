@@ -35,7 +35,7 @@ let tags = {
 }
 const defaultMenu = {
   before: `
-Hai, %ucapan %name! 👋
+Hai, %ucapan %name!
   
 *Waktu:* 
 %wib WIB
@@ -54,7 +54,7 @@ Hai, %ucapan %name! 👋
   footer: '\n',
   after: `*Made by ♡*
 *%npmname* | %version
-${'```%npmdesc```'}
+
 `,
 }
 let handler = async (m, { conn, usedPrefix: _p }) => {
@@ -157,7 +157,7 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
       readmore: readMore
     }
     text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length - a.length).join`|`})`, 'g'), (_, name) => '' + replace[name])
-    conn.sendHydrated(m.chat, text.trim(), 'Ⓟ Premium | Ⓛ Limit', null, 'https://chat.whatsapp.com/KwRKSy73DMY8NbRvCY8H4Z', 'Website', '', '', [
+    conn.sendHydrated(m.chat, text.trim(), 'Ⓟ Premium | Ⓛ Limit', null, 'https://chat.whatsapp.com/DDwFYaE7IaL7MDvvhzdpoD', 'Website', '', '', [
       ['Donate', '/donasi'],
       ['Sewa Bot', '/sewa'],
       ['Owner', '/owner']
@@ -175,7 +175,7 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'Website',
-                                    url: 'https://chat.whatsapp.com/KwRKSy73DMY8NbRvCY8H4Z'
+                                    url: 'https://chat.whatsapp.com/DDwFYaE7IaL7MDvvhzdpoD'
                                 }
                             }, {
                                 quickReplyButton: {
